@@ -1,0 +1,19 @@
+{
+  "name": "firstproject",
+  "version": "1.0.0",
+  "description": "React Project",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cidrokp1/React-firts-app.git"
+  },
+  "author": "Kevin Lourenço",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cidrokp1/React-firts-app/issues"
+  },
+  "homepage": "https://github.com/cidrokp1/React-firts-app#readme"
+}
